@@ -12,6 +12,7 @@
 2. Smoke Sensor - MQ 2
 3. Fire Sensor
 4. RFID reader & tag 
+5. IR sensor
 
 ## Communication Technologies(Protocols)
 
